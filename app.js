@@ -15,7 +15,7 @@ app.set('view engine', 'ejs');
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URL);
+mongoose.connect(process.env.MONGODB_URL,{ useNewUrlParser: true });
 
 const postSchema = {
   title: String,
