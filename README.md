@@ -1,4 +1,4 @@
-# 📝 Blog-Website
+# 📝 Blog-Website-v2
 
 The Blog-Website Version 2 is an enhanced web application that allows users to create, publish, and manage blog posts. It includes additional features and utilizes databases for data storage and retrieval.
 
