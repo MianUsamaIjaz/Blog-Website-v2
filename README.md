@@ -6,7 +6,7 @@ The Blog-Website Version 2 is an enhanced web application that allows users to c
 
 For your convenience, I have hosted this website on **Render** for free. Since it is a free service, there might be some delay while loading the website, please be patient 🙂
 
-You can access the website from here: https://newsletter-signup-qtfr.onrender.com
+You can access the website from here: https://blog-website-v2-sexs.onrender.com
 
 - Access the home page to view a list of blog posts.
 - Click on a specific post to view its details.
