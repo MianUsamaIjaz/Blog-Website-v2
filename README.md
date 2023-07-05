@@ -2,6 +2,17 @@
 
 The Blog-Website Version 2 is an enhanced web application that allows users to create, publish, and manage blog posts. It includes additional features and utilizes databases for data storage and retrieval.
 
+## 💻 Usage
+
+For your convenience, I have hosted this website on **Render** for free. Since it is a free service, there might be some delay while loading the website, please be patient 🙂
+
+You can access the website from here: https://newsletter-signup-qtfr.onrender.com
+
+- Access the home page to view a list of blog posts.
+- Click on a specific post to view its details.
+- Navigate to the about page to learn more about the website or the author.
+- Use the contact page to get in touch with the website owner.
+
 ## 🌟 Features
 
 - **Create and Publish Posts**: Users can create and publish their blog posts.
@@ -41,14 +52,6 @@ npm install
 node app.js
 
 4. Open a web browser and visit `http://localhost:3000` to access the application.
-
-## 💻 Usage
-
-- Access the home page to view a list of blog posts.
-- Click on a specific post to view its details.
-- Navigate to the about page to learn more about the website or the author.
-- Use the contact page to get in touch with the website owner.
-- To create or publish a new post, go to `http://localhost:3000/compose` and fill in the required details, including the post title and content. Once submitted, the post will be added to the list of blog posts on the home page.
 
 ## 🤝 Contribution
 
